@@ -1,5 +1,5 @@
-print (" Dèvìls Wôrld ")
-print (" knowledgeinfiniteloop.blogspot.com")
+print("Dèvìls Wôrld")
+print("knowledgeinfiniteloop.blogspot.com")
 
 def asreplace (A0):
 	
